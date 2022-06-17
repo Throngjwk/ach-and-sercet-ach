@@ -1,1 +1,15 @@
 # ach-and-sercet-ach
+## Achievements
+- +1 (Start: wow ordinal playing!)
+- &omega; (Omega: Wow its called ordinal markup funny :))
+- &omega;2 (Omega Omega: double omega???)
+- &omega;5 (Omega x5: are quintuple omega)
+- &omega;<sup>2</sup> (Omega Power Squared: &omega;10)
+- &omega;<sup>2</sup>2 (Omega Power Squared x2: &omega;20)
+- &omega;<sup>3</sup> (Omega Power Cubed: &omega;100)
+- &omega;<sup>&omega;</sup> (Omega Power Omega: &omega;10,000,000,000)
+- &omega;<sup>&omega;+1</sup> (Omega Power Omega Plus One: &omega;100,000,000,000)
+- &epsilon;<sub>0</sub> (You Win!: or do you!?!??!)
+- &epsilon;<sub>0</sub>+&epsilon;<sub>0</sub>+&epsilon;<sub>0</sub>...&epsilon;<sub>0</sub> (Starting out: Reach &epsilon;<sub>1</sub> (somehow?))
+- &epsilon;<sub>&omega;</sub> (Eplison omega await: aaaaaa)
+- winwinwinwinwin (Go to Impossible Upgrade: what)
